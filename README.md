@@ -1,6 +1,6 @@
-# Hi there, I’m Angela! 👋
+## Hi there, I’m Angela! 👋
 
-**Data Analyst & Designer | Based in Brazil**
+### **Data Analyst & Designer**
 
 With over 8 years of experience in the design field, I’ve had the opportunity to work across diverse industries — including marketing, banking, tech, and education. My professional journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to transition into the world of **Data Analytics**. 
 
