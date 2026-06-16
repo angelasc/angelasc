@@ -1,4 +1,4 @@
-## Hi there, I’m Angela! 👋
+### Hey there, I’m Angela! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/92f47b1b-fe1f-432a-9a8e-544c9453bd89" />
 
 ### **Data Analyst & Designer**
 
