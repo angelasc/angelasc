@@ -6,7 +6,7 @@
 
 I'm Angela, a **Data Analyst & Designer** based in Brazil.
 
-With over 8 years of design experience delivering projects for diverse industries — including marketing, banking, tech, and education — my journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to the world of Data Analytics. 
+With over 8 years of design experience, my journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to the world of Data Analytics. 
 
 Today, I combine my design background with data to turn complex datasets into clear, actionable, and visually compelling business insights.
 
