@@ -1,8 +1,8 @@
-### Hey there, I’m Angela! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/92f47b1b-fe1f-432a-9a8e-544c9453bd89" />
+### Hey there! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="28">>
 
-### **Data Analyst & Designer**
+I'm Angela, a **Data Analyst & Designer** based in Brazil.
 
-With over 8 years of experience in the design field, I’ve had the opportunity to work across diverse industries — including marketing, banking, tech, and education. My professional journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to transition into the world of **Data Analytics**. 
+With over 8 years of experience across diverse industries — including marketing, banking, tech, and education — my journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to the world of Data Analytics. 
 
 Today, I combine my design background with data to turn complex datasets into clear, actionable, and visually compelling business insights.
 
