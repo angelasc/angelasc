@@ -19,7 +19,7 @@ Here, you can explore some of my technical projects. Don't forget to check out m
 
 ### A Bit About Me
 
-* 🥋 I trained Kung Fu for 8 years (discipline and focus are part of my DNA).
+* 🥋 I trained Kung Fu for 8 years (discipline and focus became part of my DNA).
 * 🎪 My "Plan B" in life is to run away with the circus (currently practicing aerial silks to get ready).
 * 🔍 I am genuinely obsessed with discovering how things *actually* work.
 
