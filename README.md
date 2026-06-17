@@ -1,12 +1,17 @@
 ### Hey there! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="24">
 
+🌐 Leia isto em [Português (BR)](README.pt-br.md)
+
+---
+
 I'm Angela, a **Data Analyst & Designer** based in Brazil.
 
-With over 8 years of design experience, my journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to the world of Data Analytics. 
+With over 8 years of professional experience, my journey has always been driven by curiosity and a passion for solving complex problems, which naturally led me to the world of Data Analytics. 
 
-Today, I combine my design background with data to turn complex datasets into clear, actionable, and visually compelling business insights.
+With my design background, I translate complex datasets into strategic, visually intuitive insights that drive business decisions."
 
 Here, you can explore some of my technical projects. Don't forget to check out my **[Full Portfolio Website](LINK_DO_SEU_PORTFOLIO_AQUI)** for a complete look at my work! ✨
+
 
 ---
 
@@ -20,7 +25,7 @@ Here, you can explore some of my technical projects. Don't forget to check out m
 ### A Bit About Me
 
 * 🥋 I trained Kung Fu for 8 years (discipline and focus became part of my DNA).
-* 🎪 My "Plan B" in life is to run away with the circus (currently practicing aerial silks to get ready).
+* 🎪 Away from the screen, you can now find me practicing aerial silks.
 * 🔍 I am genuinely obsessed with discovering how things *actually* work.
 
 📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/angelascolombo/)
