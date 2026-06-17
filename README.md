@@ -26,6 +26,6 @@ Here, you can explore some of my technical projects. Don't forget to check out m
 
 * 🥋 I trained Kung Fu for 8 years (discipline and focus became part of my DNA).
 * 🎪 Away from the screen, you can now find me practicing aerial silks.
-* 🔍 I am genuinely obsessed with discovering how things *actually* work.
+* 🔍 I am obsessed with discovering how things *actually* work.
 
 📫 **Let's connect!** [LinkedIn](https://www.linkedin.com/in/angelascolombo/)
