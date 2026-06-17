@@ -4,13 +4,13 @@
 
 ---
 
-Eu sou a Angela, **Analista de Dados & Designer** sediada no Brasil.
+Meu nome é Ângela, sou uma **Analista de Dados & Designer** e moro no Brasil.
 
 Com mais de 8 anos de experiência profissional, minha jornada sempre foi movida pela curiosidade e pela paixão por resolver problemas complexos, o que me levou naturalmente ao mundo da Análise de Dados. 
 
 Combinando minha bagagem em design com a área de dados, eu traduzo conjuntos de dados complexos em insights estratégicos e visualmente intuitivos que direcionam tomadas de decisão de negócios.
 
-Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de acessar o meu **[Site de Portfólio Completo](LINK_DO_SEU_PORTFOLIO_AQUI)** para uma visão geral do meu trabalho! ✨
+Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de acessar o meu **[Site de Portfólio Completo](LINK_DO_SEU_PORTFOLIO_AQUI)** para uma visão completa do meu trabalho! ✨
 
 ---
 
@@ -24,7 +24,7 @@ Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de
 ### Um Pouco Sobre Mim
 
 * 🥋 Treinei Kung Fu por 8 anos (disciplina e foco se tornaram parte do meu DNA).
-* 🤸‍♀️ Fora das telas, hoje você pode me encontrar praticando tecido acrobático.
-* 🔍 Sou genuinamente obcecada por descobrir como as coisas *realmente* funcionam.
+* 🎪 Fora das telas, você pode me encontrar praticando tecido acrobático.
+* 🔍 Sou obcecada por descobrir como as coisas *realmente* funcionam.
 
 📫 **Vamos nos conectar!** [LinkedIn](https://www.linkedin.com/in/angelascolombo/)
